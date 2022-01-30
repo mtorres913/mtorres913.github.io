@@ -1,0 +1,71 @@
+body {
+  background-color:black;
+  color:white;
+  Font-family: Times New Roman,Ariel, Helvetica, sans-serif;
+  padding-left: 150px;
+  margin: 11% 5%;
+}
+
+h1 {
+  color:white;
+  font-size: 24px;
+  font-family:Times New Roman,Ariel, Helvetica, sans-serif;
+   border: 1px solid black;
+}
+
+img {
+  width: 250px;
+}
+
+p, li {
+  color: white;
+  font-family: Times New Roman, Arial, Helvetica, sans-serif
+}
+
+hr.line1{
+ 	border: 3px solid; 
+  color: red;
+}
+p {
+  font-size: 22px
+}
+.header {
+  background-color: black;
+  padding-left: 10px;
+  border: 1px solid black;
+  
+}
+
+
+.sum-header {
+  margin: 3%;
+  color:white;
+  font-family: Times New Roman, Arial, Helvetica, sans-serif
+}
+
+.ski-header {  
+  border-bottom: 1px solid red;
+  border-top: 1px solid red;
+  text-align: center;
+  color:white;
+  font-family: Times New Roman, Arial, Helvetica, sans-serif
+}
+.exp-header {
+  border-bottom: 1px solid red;
+  border-top: 1px solid red;
+  text-align: center;
+}
+.expco-header {
+    border-bottom: 1px solid red;
+  border-top: 1px solid red;
+  text-align: center;
+}
+.education-header {
+  border-bottom: 1px solid red;
+  border-top: 1px solid red;
+  text-align: center;
+}
+
+ul {
+  font-size: 14px
+}
